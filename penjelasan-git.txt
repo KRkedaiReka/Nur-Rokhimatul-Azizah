@@ -1,0 +1,10 @@
+//log in git hub
+git config --global user.name "usernamemu"
+git config --global user.email "nama-email"
+
+git init //untuk memulai projek baru di git
+
+//mengganti keterangan file yang dibuat
+git add. 
+git commit -m "isi commit"
+git push -u origin master
